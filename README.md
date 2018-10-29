@@ -1,34 +1,34 @@
 # My Very First Webpage
 Welcome!
 
-PROJECT TITLE
+## PROJECT TITLE
 My First Webpage
 
-GETTING STARTED
+## GETTING STARTED
 Run index.html
 
-BUILT WITH
+## BUILT WITH
 - HTML5
 - GIT
 - GITHUB
 - CLOUD9
 - CSS
 
-VERSIONING
+## VERSIONING
 - Version 1.0
 
-AUTHORS
+## AUTHORS
 - Code Institute - initial work
 - Amanda Afifi
 
-ACKNOWLEDGEMENTS
+## ACKNOWLEDGEMENTS
 - Code Institute mentors
 - Google is your friend
 
-FUNCTION
+## FUNCTION
  - Displays three pages showing teh different coding languages used in each stream
 
-ELEMENTS
+## ELEMENTS
 - DIV
 - NAV
 - UL
