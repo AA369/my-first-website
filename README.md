@@ -26,7 +26,7 @@ Run index.html
 - Google is your friend
 
 ## FUNCTION
- - Displays three pages showing teh different coding languages used in each stream
+ - Displays three pages showing the different coding languages used in each stream
 
 ## ELEMENTS
 - DIV
